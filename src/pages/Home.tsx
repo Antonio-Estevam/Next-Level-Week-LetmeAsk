@@ -36,6 +36,12 @@ export function Home(){
             alert('Error does not exists.');
             return;
         }
+
+        if(roomRef.val().endedAt){
+            alert('Room already colsed.')
+            return;
+        }
+
         history.push(`/rooms/${roomCode}`);
     }
 
