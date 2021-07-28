@@ -21,8 +21,7 @@
 
 <center>
   <img src="./src/assets/images/imgHome.JPG" alt="demo" width="400">
-  <br/>
-  <img src="./src/assets/images/sala.JPG" alt="demo" width="400">
+  
 </center>
 
 
