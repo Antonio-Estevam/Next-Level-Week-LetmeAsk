@@ -16,16 +16,22 @@
 </p>
 
 [//]: # (Add your gifs/images here:)
-<div>
-  <img src="" alt="demo" height="425">
-  <img src="" alt="demo" height="425">
-</div>
+
+<br/>
+
+<center>
+  <img src="./src/assets/images/imgHome.JPG" alt="demo" width="400">
+  <br/>
+  <img src="./src/assets/images/sala.JPG" alt="demo" width="400">
+</center>
+
 
 <hr />
 
 ## 💻 Projeto
 
 Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.
+
 
 ## Features
 [//]: # (Add the features of your project here:)
